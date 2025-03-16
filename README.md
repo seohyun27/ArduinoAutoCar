@@ -12,6 +12,8 @@ The project was carried out in teams of four. I took on the roles of team leader
 #### Report
 - It includes the processes of HW construction and SW adjustments for the autonomous car.
 
+#### Video link
+- A video link showcasing the actual operation process.
 
 
 ### Additional Comments
